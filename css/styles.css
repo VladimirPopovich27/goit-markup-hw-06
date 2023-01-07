@@ -485,7 +485,7 @@ img {
   display: flex;
   justify-content: center;
   padding-top: 94px;
-  margin-bottom: 34px;
+  margin-bottom: 50px;
 }
 
 .filter :not(:last-child) {
