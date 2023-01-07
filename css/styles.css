@@ -281,14 +281,15 @@ img {
 
 .our-teams {
   background-color: #f5f4fa;
+  padding-top: 94px;
+  padding-bottom: 94px;
 }
 
 .our-teams-title {
   margin-top: 0;
   margin-bottom: 50px;
   min-width: 264px;
-  padding-top: 94px;
-
+  
   color: var(--primari-text-color);
   font-size: 36px;
   line-height: calc(42 / 36);
@@ -299,8 +300,7 @@ img {
 .teams {
   display: flex;
   flex-basis: calc((100% - 90px) / 4);
-  padding-bottom: 94px;
-}
+  }
 
 .teams-item:not(:last-child) {
   margin-right: 30px;
