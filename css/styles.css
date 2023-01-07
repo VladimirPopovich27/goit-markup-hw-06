@@ -730,13 +730,10 @@ img {
 
 .client-link {
   display: flex;
-  width: 170px;
-  height: 92px;
-  align-items: center;
   justify-content: center;
-  color: #afb1b8;
-  background-color: var(--text-white);
-  border: 1px solid #afb1b8;
+  align-items: center;
+  height: 88px;
+  border: 1px solid var(--color-gray);
   border-radius: 4px;
   
 }
